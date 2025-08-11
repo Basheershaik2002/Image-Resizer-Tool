@@ -4,6 +4,10 @@
 Live Demo:
 (https://image-resizer-tool-pqunn8cmshaj4pg6viwpfy.streamlit.app/)
 
+**
+You can click the link below to access the Snap Resize Magic app:  
+[Snap Resize Magic](https://snap-resize-magic.lovable.app)
+
 ---
 
 ## Overview
