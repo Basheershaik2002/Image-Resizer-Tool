@@ -1,7 +1,7 @@
 # Image-Resizer-Tool
 
 
-Live Demo: [https://image-resizer-tool-pqunn8cmshaj4pg6viwpfy.streamlit.app/]
+Live Demo:
 (https://image-resizer-tool-pqunn8cmshaj4pg6viwpfy.streamlit.app/)
 
 ---
